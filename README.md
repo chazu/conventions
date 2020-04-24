@@ -34,6 +34,18 @@ If a project is important enough, large enough or complex enough to warrant a mo
 
 ## Project Conventions
 
-Conventions for layout of projects, tool selections
+Conventions for layout of projects, tool selections, use of github
+
+### Github Repository Organization
+
+I use github organizations to organize repositories:
+
+* Metafork      - forks and mirrors of others' projects
+* Metastudies   - example repositories, exercises
+* Metadocuments - documentation and writing
+* Metapyx       - Unallocated
+* Metaproblem   - Unallocated
+* chiromancy    - Project templates
+* quantsum      - Unallocated
 
 ## Tool Choices
