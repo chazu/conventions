@@ -26,6 +26,9 @@ Other people's projects. Contains all cloned repositories belonging to others. I
 #### sci
 Experiments and scratch projects. If I'm learning something and want a workspace without junking up dev, it goes here.
 
+#### inf
+Infrastructure as code.
+
 ### Caveats
 
 If a project is important enough, large enough or complex enough to warrant a more visible folder, I will put it under my home directory. E.G. `chan`. If I'm rebooting a project I've done before, its better to append the current year to the project name, e.g. `~/dev/c/tartan-2020`
